@@ -1,0 +1,28 @@
+body{
+   background-image: url(https://wallpaperaccess.com/full/8642963.gif);
+   background-size: cover;
+}
+table, th,td {
+    border: 1px solid rgb(245, 238, 238);
+margin-right: auto;
+margin-left: auto;
+margin-bottom: auto;
+}
+h6{text-align: center;}
+form{ 
+    background-color: rgb(219, 236, 231);
+    padding: 20px;
+    border-radius: 10px;
+    width: 300px;
+    margin: 0;
+    h1{text-align: center;}
+h5{text-align: center;}
+}
+
+form {
+    border: 1px solid rgb(247, 224, 224);
+margin-right: auto;
+margin-left: auto;
+margin-bottom: auto;
+
+}
